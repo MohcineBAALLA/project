@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.61e44586.chunk.css",
+    "main.js": "/project/static/js/main.d894bc86.chunk.js",
+    "main.js.map": "/project/static/js/main.d894bc86.chunk.js.map",
+    "runtime-main.js": "/project/static/js/runtime-main.f1f776ad.js",
+    "runtime-main.js.map": "/project/static/js/runtime-main.f1f776ad.js.map",
+    "static/css/2.6fd5c3ea.chunk.css": "/project/static/css/2.6fd5c3ea.chunk.css",
+    "static/js/2.4e853cb2.chunk.js": "/project/static/js/2.4e853cb2.chunk.js",
+    "static/js/2.4e853cb2.chunk.js.map": "/project/static/js/2.4e853cb2.chunk.js.map",
+    "index.html": "/project/index.html",
+    "static/css/2.6fd5c3ea.chunk.css.map": "/project/static/css/2.6fd5c3ea.chunk.css.map",
+    "static/css/main.61e44586.chunk.css.map": "/project/static/css/main.61e44586.chunk.css.map",
+    "static/js/2.4e853cb2.chunk.js.LICENSE.txt": "/project/static/js/2.4e853cb2.chunk.js.LICENSE.txt",
+    "static/media/2121.5952c4d8.jpg": "/project/static/media/2121.5952c4d8.jpg",
+    "static/media/wayz.4b40602d.png": "/project/static/media/wayz.4b40602d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1f776ad.js",
+    "static/css/2.6fd5c3ea.chunk.css",
+    "static/js/2.4e853cb2.chunk.js",
+    "static/css/main.61e44586.chunk.css",
+    "static/js/main.d894bc86.chunk.js"
+  ]
+}
